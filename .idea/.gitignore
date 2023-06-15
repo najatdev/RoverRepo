@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+MarsRover/.idea/.gitignore
+MarsRover/.idea/compiler.xml
+MarsRover/.idea/jarRepositories.xml
+MarsRover/.idea/misc.xml
+MarsRover/src/MarsRover.class
+MarsRover/target/MarsRover-1.0-SNAPSHOT.jar
+MarsRover/target/classes/Rover.class
+MarsRover/target/maven-archiver/pom.properties
+MarsRover/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+MarsRover/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+MarsRover/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+MarsRover/target/rover-1.0-jar-with-dependencies.jar
